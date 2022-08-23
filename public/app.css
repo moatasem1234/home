@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    max-width: 600px;
+    font-family: sans-serif;
+}
+
+p{
+    line-height: 1.6;
+    padding: 1rem;
+}
+article + article{
+    margin-top: 2rem;
+    border-top: #CC7832 solid 2px   ;
+}
+h1 a {
+    text-decoration: none;
+    color: purple;
+}
+img{
+
+    width: 350px;
+    height: 200px;
+}
+
